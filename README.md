@@ -41,9 +41,7 @@ pkg install nodejs git python -y
 
 3️⃣ Clone o repositório
 
-Substitua "SEU-USUARIO" pelo seu nome de usuário do GitHub.
-
-git clone https://github.com/SEU-USUARIO/ASTA-BOT.git
+git clone https://github.com/wscoringa/Asta-bot-base-.git
 
 4️⃣ Entre na pasta do bot
 
