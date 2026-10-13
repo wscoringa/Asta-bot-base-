@@ -1,7 +1,7 @@
 🔥 ASTA BOT ⚔️
 
 <p align="center">
-  <img src="asta-banner.png" width="100%" alt="ASTA BOT">
+  <img src="IMG-20261013-WA9299.jpg" width="100%" alt="ASTA BOT">
 </p><p align="center">
   <strong>Um bot para WhatsApp moderno, poderoso e cheio de recursos!</strong>
 </p><p align="center">
